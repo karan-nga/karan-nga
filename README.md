@@ -13,13 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://play.google.com/store/apps/dev?id=8325266943207239861" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/6124/6124997.png" alt="Google play" height="30" width="40" /></a>
+<a href="https://play.google.com/store/apps/dev?id=8325266943207239861" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/6124/6124997.png" alt="Google play" height="30" width="30"/></a>
 
-<a href="https://instagram.com/karan.nga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cheezycode" height="30" width="40" /></a>
+<a href="https://instagram.com/karan.nga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="30"/></a>
   
-<a href="https://www.linkedin.com/in/karan-139b20186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile" height="30" width="40" /></a>
-
-
+<a href="https://www.linkedin.com/in/karan-139b20186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile" height="30" width="30" /></a>
 
 </p>
 
